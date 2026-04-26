@@ -1,0 +1,2 @@
+终端命令：
+streamlit run movies_analisis.py
